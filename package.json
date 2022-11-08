@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-spark",
+  "version": "1.0.0",
+  "description": "适用于 React/Vue/Typescript 项目的 ESLint 配置规范，而且也是你配置个性化 ESLint 规则的参考",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "./node_modules/.bin/eslint"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-react",
+    "eslint-vue"
+  ],
+  "author": "kid-1912",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.20.2",
+    "@babel/eslint-parser": "^7.19.1",
+    "eslint": "^8.24.0"
+  }
+}
